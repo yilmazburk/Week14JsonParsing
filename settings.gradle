@@ -1,0 +1,2 @@
+rootProject.name = "Week14JsonParsing"
+include ':app'
